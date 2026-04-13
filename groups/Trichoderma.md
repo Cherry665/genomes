@@ -38,6 +38,7 @@ Genus *Trichoderma* as an example.
 
 A nice review article about Trichoderma:
 
+
 Woo, S.L. et al. Trichoderma: a multipurpose, plant-beneficial microorganism for eco-sustainable
 agriculture. Nat Rev Microbiol 21, 312–326 (2023). https://doi.org/10.1038/s41579-022-00819-5
 
